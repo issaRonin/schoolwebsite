@@ -1,0 +1,7 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+#menu {
+    position: sticky;
+}
